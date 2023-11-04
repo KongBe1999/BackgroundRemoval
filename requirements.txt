@@ -3,3 +3,5 @@ Pillow==9.3.0
 streamlit==1.21.0
 numba==0.57
 numpy==1.23.0
+facenet-pytorch
+
